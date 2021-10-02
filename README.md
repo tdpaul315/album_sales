@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+[Album Sales](https://album-sales.herokuapp.com/)
+

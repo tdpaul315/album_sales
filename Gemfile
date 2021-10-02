@@ -55,7 +55,6 @@ group :test do
 end
 
 group :production do
-# Adds
   gem 'pg'
 end 
 
